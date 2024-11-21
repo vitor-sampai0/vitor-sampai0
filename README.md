@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em um Projeto De Portal de Materia 
 - 🌱 Atualmente estou aprendendo Back-End
-- 💬 Pergunte-me sobre Games
+
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Gosto muito de tecnologias/Aprender coisas novas
 
