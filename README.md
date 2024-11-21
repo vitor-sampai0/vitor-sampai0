@@ -31,5 +31,4 @@
 <img src="https://media1.tenor.com/m/nBEg5eoYPoMAAAAd/teehee-doggo.gif" alt="cachorro" width="200" height="200">
 </div>
 
-![Snake animation](https://github.com/vitor-sampai0/vitor-sampai0/blob/output/github-contribution-grid-snake.svg)
           
