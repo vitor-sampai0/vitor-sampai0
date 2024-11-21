@@ -3,8 +3,6 @@
 
 <h1> Sobre Mim </h1>
 
-<img style="border-radius:10px" width="200" height="200" align="right" alt="Github" src="https://media1.tenor.com/m/3AQDvhSiPpMAAAAd/dog-hacker.gif" />
-
 - 🔭 Atualmente estou trabalhando em um Projeto De Portal de Materia
   
 - 🌱 Atualmente estou aprendendo Back-End
