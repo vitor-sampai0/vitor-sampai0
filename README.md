@@ -50,3 +50,5 @@
 
 ![vitor-sampai0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-sampai0&theme=omni&show_icons=true&hide_border=false&layout=compact) 
 <br>
+
+[![](https://visitcount.itsvg.in/api?id=vitor-sampai0&icon=0&color=12)](https://visitcount.itsvg.in)
