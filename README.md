@@ -25,6 +25,15 @@ Olá! Meu nome é **Vitor Sampaio**, também conhecido como **vitor-sampai0**.
 
 ---
 
+## 📂 Meus Projetos
+
+### 🏗️ Portal de Matéria  
+Um projeto que desenvolvi para **uma atividade do projeto final no SENAI Valinhos**.  
+🔗 **Acesse o site completo clicando aqui** [👉 Portal de Matéria](https://portal-de-materias.vercel.app/)  
+🔗 **Acesse o Repositório clicando aqui** [👉 Repositório](https://github.com/mariccardoso/PortaldeMaterias)
+
+---
+
 ## 📬 Contato
 
 <div>
