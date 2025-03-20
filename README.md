@@ -57,8 +57,4 @@ Um projeto que desenvolvi para **uma atividade do projeto final no SENAI Valinho
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=vitor-sampai0&label=Profile%20Views&color=12&icon=5&pretty=false)
-
----
-
 Obrigado por visitar meu perfil! Vamos codar juntos! 🚀😃
