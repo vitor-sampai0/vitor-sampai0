@@ -58,3 +58,7 @@ Um projeto que desenvolvi para **uma atividade do projeto final no SENAI Valinho
 ---
 
 Obrigado por visitar meu perfil! Vamos codar juntos! 🚀😃
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
