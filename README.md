@@ -3,85 +3,82 @@
 </p>
 
 <div align="center">
-  # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
-</div>
+  
+# 👋 Olá! Eu sou Vitor Sampaio
 
-## 🙋‍♂️ Sobre Mim
+💻 Desenvolvedor de Software  
+🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI Valinhos  
+🚀 Focado em Back-End, React e React Native  
 
-Olá! Meu nome é **Vitor Sampaio**, também conhecido como **vitor-sampai0**.
-
-- 🌱 Estudando **Back-End, React e React Native** para aprimorar minhas habilidades.
-- 😄 Pronomes: **Ele/Dele**.
-- ⚡ Curiosidade: Apaixonado por tecnologia e aprendizado contínuo.
-
----
-
-<div align="center">
-  ## 🚀 Tecnologias que estou aprendendo
-
-  <p>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-    <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-    <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/></a>
-  </p>
 </div>
 
 ---
 
-<div align="center">
-  ## 📂 Meus Projetos
+## 👨‍💻 Sobre mim
 
-  ### 🏗️ Portal de Matéria  
-  Um projeto que desenvolvi para **uma atividade do projeto final no SENAI Valinhos**.  
-  🔗 **Acesse o site completo clicando aqui** [👉 Portal de Matéria](https://portal-de-materias.vercel.app/)  
-  🔗 **Acesse o Repositório clicando aqui** [👉 Repositório](https://github.com/mariccardoso/PortaldeMaterias)
+Sou desenvolvedor formado em Desenvolvimento de Sistemas pelo SENAI Valinhos, com experiência em projetos práticos envolvendo aplicações web e mobile.
+
+Tenho foco principal em desenvolvimento **Back-End com Node.js**, criação de **APIs RESTful**, integração com banco de dados e desenvolvimento de interfaces modernas com **React e React Native**.
+
+Busco oportunidade como **Desenvolvedor Júnior** para contribuir com soluções eficientes, aprender com o time e crescer profissionalmente dentro da empresa.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+
+</div>
+
+- Node.js  
+- APIs RESTful  
+- MySQL  
+- React  
+- React Native  
+- Git & GitHub  
+
+---
+
+## 📂 Projeto em Destaque
+
+### 🏗️ Portal de Matéria  
+Projeto desenvolvido como conclusão do curso técnico no SENAI Valinhos.
+
+🔗 Deploy: https://portal-de-materias.vercel.app/  
+🔗 Repositório: https://github.com/mariccardoso/PortaldeMaterias  
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+<a href="mailto:contato@vitorsampaio1003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/vitor-sampaio-152839241/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  ## 📬 Contato
 
-  <a href="https://instagram.com/_vitorsampaiolirx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:contato@vitor.s.lira@aluno.senai.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vitor-sampaio-152839241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+💼 Aberto a oportunidades como Desenvolvedor Júnior  
+Vamos construir algo incrível juntos 🚀
+
 </div>
-
----
-
-<div align="center">
-  ## 📊 Estatísticas do GitHub
-
-  ### 🔥 Atividade Recentes
-  ![vitor-sampai0's Stats](https://github-readme-stats.vercel.app/api?username=vitor-sampai0&theme=omni&show_icons=true&count_private=true)
-
-  ### 📈 Streak de Contribuições
-  ![vitor-sampai0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitor-sampai0&theme=omni)
-
-  ### 💻 Linguagens Mais Utilizadas
-  ![vitor-sampai0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-sampai0&theme=omni&layout=compact)
-</div>
-
----
-<div align="center">
-  # Codando agora ao som de 🎵
-  </div>
-<div align="center">
-
-   
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z77kd3xaarmwqe4sueqp7gj7b&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
-</div>
-<div align="center">
-
-Obrigado por visitar meu perfil! Vamos codar juntos! 🚀😃
-  </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
